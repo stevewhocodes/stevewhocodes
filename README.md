@@ -1,5 +1,31 @@
 ### Hi there 👋
 
+🔭 Technologies
+Languages:
+HTML5 CSS3 JavaScript
+
+Environment:
+Windows MacOS Linux
+
+Tools:
+VS Code Git GitHub
+
+Goal:
+Aiming to become a Frontend developer. 🚀
+HTML CSS JavaScript React NodeJS
+
+
+
+<!--
+📫 Let's connect
+Twitter logo Twitter: @ironmonkus
+-->
+
+
+
+
+
+
 <!--
 **s-palfreyman/s-palfreyman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

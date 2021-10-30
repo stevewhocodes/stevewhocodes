@@ -10,7 +10,7 @@ Training to become a Frontend developer. 🚀
 
 ### Environment
 ![Windows](https://img.shields.io/badge/Windows-FCC624?style=for-the-badge&logo=Windows&logoColor=white&color=blue)
-![MacOS](https://img.shields.io/badge/MacOS-FCC624?style=for-the-badge&logo=Apple&logoColor=black&color=silver)
+![MacOS](https://img.shields.io/badge/Mac-FCC624?style=for-the-badge&logo=Apple&logoColor=black&color=silver)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Tools

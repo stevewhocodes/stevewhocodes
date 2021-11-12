@@ -10,11 +10,6 @@ I'm training to become a Frontend developer. 🚀
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-## ⚡Environment 
-![Windows](https://img.shields.io/badge/Windows-FCC624?style=for-the-badge&logo=Windows&logoColor=white&color=blue)
-![MacOS](https://img.shields.io/badge/Mac-FCC624?style=for-the-badge&logo=Apple&logoColor=black&color=silver)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
 ## ⚡Tools 
 ![VS Code](https://img.shields.io/badge/Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)

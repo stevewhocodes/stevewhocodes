@@ -16,7 +16,7 @@ I'm training to become a Frontend developer. 🚀
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### 📫 Let's connect
-- <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/1200px-Twitter_Bird.svg.png" alt="Twitter logo" height="10"/> Twitter: **[@ironmonkus](https://twitter.com/ironmonkus)**
+- <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/1200px-Twitter_Bird.svg.png" alt="Twitter logo" height="10"/> Twitter: **[@steveWhoCodes](https://twitter.com/ironmonkus)**
 
 
 <!--

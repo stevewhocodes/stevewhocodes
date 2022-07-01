@@ -1,4 +1,4 @@
- ![My GitHub Profile image](https://github.com/steveWhoCodes/steveWhoCodes/blob/main/banner.png)
+
 
 
 # Hi there 👋

@@ -20,7 +20,7 @@
 
 
 ### 📫 Let's connect
-- <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/1200px-Twitter_Bird.svg.png" alt="Twitter logo" height="10"/> Twitter: **[@sForceSteve](https://twitter.com/sForceSteve)**
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/512px-Twitter-logo.svg.png?20220821125553" alt="Twitter logo" height="10"/> Twitter: **[@sForceSteve](https://twitter.com/sForceSteve)**
 
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stevewhocodes&show_icons=true&locale=en&layout=compact" alt="stevewhocodes">

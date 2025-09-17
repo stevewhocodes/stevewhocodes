@@ -20,7 +20,9 @@
 
 
 ### 📫 Let's connect
-###### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/512px-Twitter-logo.svg.png?20220821125553" alt="Twitter logo" height="20"/> Twitter: **[@sForceSteve](https://twitter.com/sForceSteve)**
+<!--
+###### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/512px-Twitter-logo.svg.png?20220821125553" alt="Twitter logo" height="20"/> Twitter: **[@](https://twitter.com/)**
+-->
 ###### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png?20140125013055" alt="LinkedIn logo" height="20"/> LinkedIn: **[@stevenpalfreyman](https://www.linkedin.com/in/stevenpalfreyman/)**
 
 <p>
